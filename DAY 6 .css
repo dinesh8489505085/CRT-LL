@@ -1,0 +1,20 @@
+.one{
+    color: red;
+}
+.two{
+    color:blue;
+}
+p{
+    color:orange;
+}
+#one{
+    color:darkgray ;
+}
+#two{
+    color:sandybrown;
+}
+
+*{
+    color:red;
+}
+
