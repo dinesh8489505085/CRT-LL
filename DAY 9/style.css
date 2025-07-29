@@ -1,0 +1,15 @@
+#out{
+    border: 2px solid red;
+    padding: 8px;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+#in{
+    border: 2px solid blue;
+    margin: 10px;
+    width: 50px;
+}
